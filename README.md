@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
