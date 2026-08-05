@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
