@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1470-shuffle-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
