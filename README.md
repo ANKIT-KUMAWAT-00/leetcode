@@ -108,8 +108,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
