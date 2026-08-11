@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
+| [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,8 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 <!---LeetCode Topics End-->
