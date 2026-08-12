@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0089-gray-code) |
+| [3133-minimum-array-end](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3133-minimum-array-end) |
 ## Linked List
 |  |
 | ------- |
