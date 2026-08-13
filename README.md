@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0155-min-stack) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0845-longest-mountain-in-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
