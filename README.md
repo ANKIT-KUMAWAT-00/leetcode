@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
