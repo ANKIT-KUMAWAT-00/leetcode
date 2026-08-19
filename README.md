@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
