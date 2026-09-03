@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0097-interleaving-string) |
