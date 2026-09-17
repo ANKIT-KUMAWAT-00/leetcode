@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3151-special-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3151-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
