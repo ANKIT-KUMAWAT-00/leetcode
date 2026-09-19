@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [3151-special-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3151-special-array-i) |
+| [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
