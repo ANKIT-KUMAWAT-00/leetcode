@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2235-add-two-integers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
