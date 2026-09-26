@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Enumeration
 |  |
