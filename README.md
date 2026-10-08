@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0089-gray-code) |
 | [3133-minimum-array-end](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3133-minimum-array-end) |
 ## Linked List
