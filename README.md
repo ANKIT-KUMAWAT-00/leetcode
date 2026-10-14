@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
