@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Matrix
 |  |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0099-recover-binary-search-tree](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Prefix Sum
 |  |
