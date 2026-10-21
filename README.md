@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2540-minimum-common-value](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2540-minimum-common-value) |
+| [3046-split-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2540-minimum-common-value](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2540-minimum-common-value) |
+| [3046-split-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3046-split-the-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3046-split-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
