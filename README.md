@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/1470-shuffle-the-array) |
