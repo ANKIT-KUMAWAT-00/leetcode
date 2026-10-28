@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2235-add-two-integers) |
+| [3524-find-x-value-of-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/ANKIT-KUMAWAT-00/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
